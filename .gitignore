@@ -32,7 +32,6 @@ bower_components
 # Compiled binary addons (http://nodejs.org/api/addons.html)
 build/Release
 
-temp_auto_push.bat
 # Dependency directories
 node_modules/
 jspm_packages/
@@ -68,5 +67,3 @@ yarn-error.log
 .pnp.js
 # Yarn Integrity file
 .yarn-integrity
-.gitignore
-branch_structure.json
